@@ -87,9 +87,14 @@ To cancel a task, run the following command:
 ts-node scripts/cancel-task.ts
 ```
 
-
-
 ### Notes:
 
 - Replace `YOUR_PRIVATE_KEY` with the actual private key and ensure it remains confidential.
 - You may want to include more details or modify sections based on your project specifics, such as usage examples or additional setup instructions.
+
+---
+## Learn More
+
+To learn more about Buildbear or Gelato, visit the official documentation:
+- [Buildbear](https://buildbear.io)
+- [Gelato](https://www.gelato.network/)
