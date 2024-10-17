@@ -1,0 +1,17 @@
+{
+  "name": "Gelato-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gelatonetwork/automate-sdk": "^3.0.30",
+    "@gelatonetwork/web3-functions-sdk": "^2.4.4",
+    "dotenv": "^16.4.5",
+    "ky": "^1.7.2"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.7",
+    "@types/node": "^22.7.6",
+    "ts-node": "^10.9.1"
+  }
+}
