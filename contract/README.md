@@ -100,7 +100,8 @@ The contract has been tested with the following scenarios:
 - **Repay loan**: Confirm users can repay their loans.
 - **Attempting to repay without a loan**: Verify that users cannot repay without an outstanding loan.
 
-![Testing Results]![image](https://github.com/user-attachments/assets/838ed255-2817-46ce-8fe5-cfcf9e9ee247)
+## Testing Results
+![image](https://github.com/user-attachments/assets/838ed255-2817-46ce-8fe5-cfcf9e9ee247)
 
 
 
